@@ -5,7 +5,7 @@ This repository contains survey results and plots for each binary system in the 
 
 ### Required Packages:
 numpy, matplotlib, astropy, pickle, scipy
-The code in the included notebooks also relies on code within Cliotools package: [https://github.com/logan-pearce/cliotools](cliotools)
+The code in the included notebooks also relies on code within Cliotools package: [[https://github.com/logan-pearce/cliotools](https://github.com/logan-pearce/cliotools)]
 
 [![DOI](https://zenodo.org/badge/459775611.svg)](https://zenodo.org/badge/latestdoi/459775611)
 
